@@ -1,7 +1,6 @@
-////////////////////////////////////////////////////////////////////////////////////////////////
-                                   ACA-1 Project (Fall 2022)
+ACA-1 Project (Fall 2022) -
 Cache Replacement Policy: Dynamic Insertion Policy via Set Duelling for High performance Cache.
-////////////////////////////////////////////////////////////////////////////////////////////////
+
 
 Description of the topic:
 To implement a cache controller that demonstrates an effective replacement policy called the
